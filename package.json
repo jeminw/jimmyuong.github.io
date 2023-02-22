@@ -1,0 +1,14 @@
+{
+  "name": "jimmyuong.github.io",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/jimmyuong/jimmyuong.github.io.git",
+  "license": "MIT",
+  "devDependencies": {
+    "vuepress": "^1.9.8"
+  },
+  "scripts": {
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs"
+  }
+}
