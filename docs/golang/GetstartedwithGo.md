@@ -1,3 +1,7 @@
+---
+title: 'Tutorial: Get started with Go'
+---
+
 # Tutorial: Get started with Go
 
 Table of Contents
